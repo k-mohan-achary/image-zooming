@@ -94,8 +94,8 @@ const ImageZoom: React.FC<ImageZoomProps> = ({ src, alt, zoomFactor = 2 }) => {
           position: absolute;
           top: 0;
           left: 100%;
-          width: 400px;
-          height: 400px;
+          width: 500px;
+          height: 500px;
           overflow: hidden;
           border: 2px solid red;
           background-color: #000;
